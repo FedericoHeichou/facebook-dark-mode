@@ -109,7 +109,7 @@ function addStyle(styles) {
         border-bottom: #4a4a4a 1px solid !important;
         border-top: #4a4a4a 1px solid !important;
     }
-    ._42fu, ._xag, ._3z5 ._3zr a, .uiButtonConfirm, ._xah, ._4jy1, ._517h, ._59pe, ._4jy2, ._3g_v, .uiButton, .uiButtonSuppressed, ._43rm, .hybvsw6c, ._271k, ._51lp, ._58al, ._3rhb, ._3o_h::after, ._2yaa ._2yau::after, ._2yaa:hover {
+    ._42fu, ._xag, ._3z5 ._3zr a, .uiButtonConfirm, ._xah, ._4jy1, ._517h, ._59pe, ._4jy2, ._3g_v, .uiButton, .uiButtonSuppressed, ._43rm, .hybvsw6c, ._271k, ._51lp, ._58al, ._3rhb, ._3o_h::after, ._2yaa ._2yau::after, ._2yaa:hover, ._ep_, ._18dz::after {
         background: ` + colors.buttons + ` !important;
         border-color: #4a4a4a !important
     }
@@ -141,7 +141,7 @@ function addStyle(styles) {
         background: ` + colors.inner_boxes + ` !important;
     }
 
-    .uiTypeahead, ._585-, ._5vb_ .home_right_column .fbFeedTicker .tickerStoryActive, ._5vb_ .home_right_column .fbFeedTicker .tickerStoryClickable:hover, ._1lor, ._kj3, .fbTimelineStickyHeader *, ._54ng, ._5i-7, ._3ubp, ._1cx1 ._ei_, ._3cz, ._g3h, ._1a8t, ._1xy2, ._5wcf, ._1nc6 ._d97, ._hh7, .uiBoxGray, ._344_, ._3iue, #documentation_body_pagelet th, ._25_a:hover, ._25_c, html ._55r1, ._6-7:hover, ._6-6:hover, ._9rx.openToggler, ._9ry:hover, ._33e, ._54ne, ._54ne a, ._55ln:hover {
+    .uiTypeahead, ._585-, ._5vb_ .home_right_column .fbFeedTicker .tickerStoryActive, ._5vb_ .home_right_column .fbFeedTicker .tickerStoryClickable:hover, ._1lor, ._kj3, .fbTimelineStickyHeader *, ._54ng, ._5i-7, ._3ubp, ._1cx1 ._ei_, ._3cz, ._g3h, ._1a8t, ._1xy2, ._5wcf, ._1nc6 ._d97, ._hh7, .uiBoxGray, ._344_, ._3iue, #documentation_body_pagelet th, ._25_a:hover, ._25_c, html ._55r1, ._6-7:hover, ._6-6:hover, ._9rx.openToggler, ._9ry:hover, ._33e, ._54ne, ._54ne a, ._55ln:hover, ._3_gi .uiSearchInput::after, ._3_gi .uiTypeahead::after, ._3_gi ._58ak::after {
         background: #242424 !important;
         background-color: #242424 !important;
     }
@@ -181,6 +181,10 @@ function addStyle(styles) {
     .tooltipContent {
         border: 1px solid rgba(100, 100, 100, .4);
         box-shadow: 0 3px 8px rgba(0, 0, 0, .25)
+    }
+
+    div ._5rpb br {
+        display: none;
     }`;
     addStyle(styles)
 })();
