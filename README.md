@@ -98,7 +98,7 @@ function addStyle(styles) {
     ._4po5 div, li.jewelItemNew div._dre {
         background-color: ` + colors.buttons + ` !important;
     }
-    div._4kf5, div._1aa6, div._4gx_, div._4k7e, div._1aa6 div, ._5w-5, ._4kf5, span._3dlh {
+    div._4kf5, div._1aa6, div._4gx_, div._4k7e, div._1aa6 div, ._5w-5, ._4kf5, span._3dlh, ._6ojs, ._77we, ._5bl2  {
         background-color: ` + colors.inner_boxes + ` !important;
     }
     ._5w1r {
@@ -122,7 +122,7 @@ function addStyle(styles) {
     blockquote div._pyf {
         background: ` + colors.text + ` !important;
     }
-    *, ._1nd3 a, .snippet span, li._kv ._l3, ._1n-e, ._c24, .fcg, .sideNavItem a, ._585_ {
+    *:not(._3_16), ._1nd3 a, .snippet span, li._kv ._l3, ._1n-e, ._c24, .fcg, .sideNavItem a, ._585_ {
         color: ` + colors.text + ` !important;
     }
 
@@ -132,7 +132,7 @@ function addStyle(styles) {
     }
 
     /*cssv_heading_color*/
-    .ellipsis, ._3na7 ._4jy1, ._3na7 ._4jy2, a, .name, .name span, a span, a .accessible_elem, a ._l1, ._3s6x, .__MenuItem span, .__MenuItem div, ._5vb_, ._5vb_ #contentCol, ._5qtp, button, button span, ._5p3y .uiSideNav .item div, .uiButton input, label, label span, ._585_ {
+    .ellipsis, ._3na7 ._4jy1, ._3na7 ._4jy2, a:not(._3_16), .name, .name span, a span, a .accessible_elem, a ._l1, ._3s6x, .__MenuItem span, .__MenuItem div, ._5vb_, ._5vb_ #contentCol, ._5qtp, button, button span, ._5p3y .uiSideNav .item div, .uiButton input, label, label span, ._585_ {
         color: ` + colors.heading_and_links + ` !important;
     }
 
@@ -158,11 +158,11 @@ function addStyle(styles) {
         filter: invert(1)
     }
 
-    .uiScrollableAreaBody a, ._5rpb {
+    .uiScrollableAreaBody a, ._5rpb, ._9zc {
         border-color: transparent !important
     }
 
-    ._3c40, ._57d8, ._1jyk, .commentable_item *, ._4-h7:hover, ._19_3, div._5a8u, ._4o-g:hover {
+    ._3c40, ._57d8, ._1jyk, .commentable_item *, ._4-h7:hover, ._19_3, div._5a8u, ._4o-g:hover, ._1n9k, ._3emk {
         background-color: transparent !important
     }
 
