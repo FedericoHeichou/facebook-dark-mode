@@ -137,7 +137,7 @@ function addStyle(styles) {
     }
 
     /*cssv_inner_boxes_color*/
-    .tooltipContent, ._4arz span, ._t, .fbFeedTicker .fbFeedTickerStory, ._3soe, ._4-u8, .commentable_item, #globalContainer, html ._262m ._698, ._5vsj._5vsj._5vsj, ._5vsj .UFIRow, ._6m2, ._30f, ._1lot, #fbContextualHelpContent div, .pbs, .uiBoxWhite, .uiBoxLightblue, .uiScrollableAreaBody, .uiToggleFlyout, ._30d, .escapeHatchMinimal, .fbNubButton, ._53ij, .conversationContainer, .fbChatTypeahead ._4p-s, ._7a5, #documentation_body_pagelet td, .uiMenu, ._4t2a, ._3t09, ._69pt,  ._21r, ._3zsi {
+    .tooltipContent, ._4arz span, ._t, .fbFeedTicker .fbFeedTickerStory, ._3soe, ._4-u8, .commentable_item, #globalContainer, html ._262m ._698, ._5vsj._5vsj._5vsj, ._5vsj .UFIRow, ._6m2, ._30f, ._1lot, #fbContextualHelpContent div, .pbs, .uiBoxWhite, .uiBoxLightblue, .uiScrollableAreaBody, .uiToggleFlyout, ._30d, .escapeHatchMinimal, .fbNubButton, ._53ij, .conversationContainer, .fbChatTypeahead ._4p-s, ._7a5, #documentation_body_pagelet td, .uiMenu, ._4t2a, ._3t09, ._69pt,  ._21r, ._3zsi, ._eos {
         background: ` + colors.inner_boxes + ` !important;
     }
 
