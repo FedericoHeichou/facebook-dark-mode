@@ -105,7 +105,7 @@ function addStyle(styles) {
         border-radius: 20px;
         border-bottom-left-radius: 20px;
     }
-    ._42fu, ._xag, ._3z5 ._3zr a, .uiButtonConfirm, ._xah, ._4jy1, ._517h, ._59pe, ._4jy2, ._3g_v, .uiButton, .uiButtonSuppressed, ._43rm, .hybvsw6c, ._271k, ._51lp, ._58al, ._3rhb {
+    ._42fu, ._xag, ._3z5 ._3zr a, .uiButtonConfirm, ._xah, ._4jy1, ._517h, ._59pe, ._4jy2, ._3g_v, .uiButton, .uiButtonSuppressed, ._43rm, .hybvsw6c, ._271k, ._51lp, ._58al, ._3rhb, ._3o_h::after, ._2yaa ._2yau::after, ._2yaa:hover {
         background: ` + colors.buttons + ` !important;
         border-color: #4a4a4a !important
     }
