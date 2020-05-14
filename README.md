@@ -95,7 +95,7 @@ function addStyle(styles) {
     }
 
     /*cssv_buttons_color*/
-    ._4po5 div {
+    ._4po5 div, li.jewelItemNew div._dre {
         background-color: ` + colors.buttons + ` !important;
     }
     div._4kf5, div._1aa6, div._4gx_, div._4k7e, div._1aa6 div, ._5w-5, ._4kf5, span._3dlh {
@@ -104,6 +104,10 @@ function addStyle(styles) {
     ._5w1r {
         border-radius: 20px;
         border-bottom-left-radius: 20px;
+    }
+    li.jewelItemNew div._dre {
+        border-bottom: #4a4a4a 1px solid !important;
+        border-top: #4a4a4a 1px solid !important;
     }
     ._42fu, ._xag, ._3z5 ._3zr a, .uiButtonConfirm, ._xah, ._4jy1, ._517h, ._59pe, ._4jy2, ._3g_v, .uiButton, .uiButtonSuppressed, ._43rm, .hybvsw6c, ._271k, ._51lp, ._58al, ._3rhb, ._3o_h::after, ._2yaa ._2yau::after, ._2yaa:hover {
         background: ` + colors.buttons + ` !important;
