@@ -158,7 +158,7 @@ function addStyle(styles) {
         filter: invert(1)
     }
 
-    .uiScrollableAreaBody a {
+    .uiScrollableAreaBody a, ._5rpb {
         border-color: transparent !important
     }
 
@@ -181,10 +181,6 @@ function addStyle(styles) {
     .tooltipContent {
         border: 1px solid rgba(100, 100, 100, .4);
         box-shadow: 0 3px 8px rgba(0, 0, 0, .25)
-    }
-
-    div ._5rpb br {
-        display: none;
     }`;
     addStyle(styles)
 })();
