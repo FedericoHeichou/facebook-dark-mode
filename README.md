@@ -146,7 +146,7 @@ function addStyle(styles) {
         background-color: #242424 !important;
     }
 
-    .uiToggleFlyout *:not(button):not(._517h), .uiToggleFlyout *:not(button):not(._517h):hover, .mtm *, ._3ztw:hover, ._3ztw a, ._4d3w._u77 .fbPhotosSnowboxFeedbackInput, ._6ijr {
+    .uiToggleFlyout *:not(button):not(._517h), .uiToggleFlyout *:not(button):not(._517h):hover, ._3ztw:hover, ._3ztw a, ._4d3w._u77 .fbPhotosSnowboxFeedbackInput, ._6ijr {
         background-color: transparent !important;
     }
 
