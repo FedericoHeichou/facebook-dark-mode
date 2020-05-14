@@ -146,7 +146,7 @@ function addStyle(styles) {
         background-color: #242424 !important;
     }
 
-    .uiToggleFlyout *:not(button):not(._517h), .uiToggleFlyout *:not(button):not(._517h):hover, .mtm *, ._3ztw:hover, ._3ztw a {
+    .uiToggleFlyout *:not(button):not(._517h), .uiToggleFlyout *:not(button):not(._517h):hover, .mtm *, ._3ztw:hover, ._3ztw a, ._4d3w._u77 .fbPhotosSnowboxFeedbackInput, ._6ijr {
         background-color: transparent !important;
     }
 
@@ -162,7 +162,7 @@ function addStyle(styles) {
         border-color: transparent !important
     }
 
-    ._3c40, ._57d8, ._1jyk, .commentable_item *, ._4-h7:hover, ._19_3, div._5a8u, ._4o-g:hover, ._1n9k, ._3emk {
+    ._3c40, ._57d8, ._1jyk, .commentable_item *, ._4-h7:hover, ._19_3, div._5a8u, ._4o-g:hover, ._1n9k, ._3emk, ._6ijr ._6ijs {
         background-color: transparent !important
     }
 
