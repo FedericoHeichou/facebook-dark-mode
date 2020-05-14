@@ -98,7 +98,7 @@ function addStyle(styles) {
     ._4po5 div, li.jewelItemNew div._dre {
         background-color: ` + colors.buttons + ` !important;
     }
-    div._4kf5, div._1aa6, div._4gx_, div._4k7e, div._1aa6 div, ._5w-5, ._4kf5, span._3dlh, ._6ojs, ._77we, ._5bl2  {
+    div._4kf5, div._1aa6, div._4gx_, div._4k7e, div._1aa6 div, ._5w-5, ._4kf5, span._3dlh, ._6ojs, ._77we, ._5bl2, ._3com  {
         background-color: ` + colors.inner_boxes + ` !important;
     }
     ._5w1r {
@@ -109,7 +109,7 @@ function addStyle(styles) {
         border-bottom: #4a4a4a 1px solid !important;
         border-top: #4a4a4a 1px solid !important;
     }
-    ._42fu, ._xag, ._3z5 ._3zr a, .uiButtonConfirm, ._xah, ._4jy1, ._517h, ._59pe, ._4jy2, ._3g_v, .uiButton, .uiButtonSuppressed, ._43rm, .hybvsw6c, ._271k, ._51lp, ._58al, ._3rhb, ._3o_h::after, ._2yaa ._2yau::after, ._2yaa:hover, ._ep_, ._18dz::after {
+    ._42fu, ._xag, ._3z5 ._3zr a, .uiButtonConfirm, ._xah, ._4jy1, ._517h, ._59pe, ._4jy2, ._3g_v, .uiButton, .uiButtonSuppressed, ._43rm, .hybvsw6c, ._271k, ._51lp, ._58al, ._3rhb, ._3o_h::after, ._2yaa ._2yau::after, ._2yaa:hover, ._ep_, ._18dz::after, ._31qh, ._3col {
         background: ` + colors.buttons + ` !important;
         border-color: #4a4a4a !important
     }
